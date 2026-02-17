@@ -15,12 +15,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Working on **real-world data analytics projects** using Excel, Power BI & SQL  
-- 👯 Open to **data analytics & dashboard collaborations**  
-- 🤝 Improving **advanced SQL, DAX optimization & data modeling**  
-- 🌱 Learning **advanced Power BI & Python for Data Analysis**  
-- 💬 Ask me about **Excel dashboards, Power BI reports, SQL queries**  
-- ⚡ Fun fact: I enjoy turning messy data into meaningful insights 📊  
+## 👨‍💻 About Me
+
+- 🔭 Working on real-world **data analytics projects**
+- 📊 Skilled in **Excel, Power BI, SQL**
+- 🌱 Learning **advanced DAX & Python**
+- 💬 Ask me about dashboards & reporting
 
 ---
 
