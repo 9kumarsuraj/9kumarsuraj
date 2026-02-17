@@ -7,8 +7,16 @@
 
 <h3 align="center">Data Analyst | Power BI | SQL | Excel</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&lines=Data+Analyst;Power+BI+Dashboard+Developer;SQL+%26+Excel+Specialist;Turning+Data+Into+Business+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&lines=Data+Analyst;Power+BI+Dashboard+Developer;SQL+%26+Excel+Specialist" />
+</p>
+
+<!-- 👉 ADD RESUME BUTTON HERE 👇 -->
+<p align="center">
+  <a href="YOUR_RAW_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Download_Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
 </p>
 
 ---
