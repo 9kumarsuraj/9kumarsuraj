@@ -18,9 +18,7 @@
     <img src="https://img.shields.io/badge/Download_Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
-    <img src="https://img.shields.io/badge/Download_Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-</p>
+>
 
 ---
 
