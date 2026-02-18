@@ -65,6 +65,7 @@
 
 ---
 
+
 ## 📌 Featured Data Analytics Projects
 
 ### 📊 Zomato Food Delivery Dashboard (Excel)
@@ -98,9 +99,24 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=9kumarsuraj&show_icons=true&theme=radical"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=9kumarsuraj&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9kumarsuraj&layout=compact&theme=radical"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=9kumarsuraj&theme=radical" />
+</p>
+
+<p align="left">
+  <img 
+    src="https://streak-stats.demolab.com?user=9kumarsuraj&theme=radical&cache_seconds=1800" 
+    alt="GitHub Streak" />
+</p>
+
+
+---
+## ⏱️ GitHub Activity
+
+<p align="left">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9kumarsuraj&theme=radical" 
+    alt="GitHub Activity Summary" />
 </p>
 
 ---
