@@ -14,7 +14,7 @@
 
 <!-- 👉 ADD RESUME BUTTON HERE 👇 -->
 <p align="center">
-  <a href="(Suraj.new.resume.2025.pdf)">
+  <a href="https://drive.google.com/file/d/1OhMw6QNWZUfZds3eZaLNGrHVOEjsVLFC/view">
     <img src="https://img.shields.io/badge/Download_Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
