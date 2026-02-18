@@ -14,7 +14,7 @@
 
 <!-- 👉 ADD RESUME BUTTON HERE 👇 -->
 <p align="center">
-  <a href="[Suraj new resume 2025.pdf](https://github.com/user-attachments/files/25365012/Suraj.new.resume.2025.pdf)">
+  <a href="[Suraj new resume 2025.pdf](https://github.com/user-attachments/files/25389707/Suraj.new.resume.2025.pdf)">
     <img src="https://img.shields.io/badge/Download_Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
